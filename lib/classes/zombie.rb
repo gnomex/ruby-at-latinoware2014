@@ -9,11 +9,11 @@ class Zombie
   end
 
   def eat(n = 1)
-    @brains += n
+    @brains_eaten += n
   end
 
   def rooting
-    "Yeaaap"
+    "Yeap"
   end
 
   def status
