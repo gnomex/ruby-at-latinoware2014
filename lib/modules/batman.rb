@@ -1,7 +1,7 @@
-module Batman
+module Hulk
   include SuperHero
 
-  def song
-    "Tananananananana..."
+  def say
+    "Hulk smash!"
   end
 end
