@@ -14,5 +14,6 @@ def do_something(&block)
   end
 end
 
+do_something
 do_something { "Hello World" }
 
