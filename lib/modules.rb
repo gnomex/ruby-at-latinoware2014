@@ -1,0 +1,3 @@
+module LatinoWare
+
+end
