@@ -1,7 +1,7 @@
 sym = :name
 zombie = :"zombie"
 to_sym = "john".to_sym
-latinoware = 'latinoware'.intern
+example = 'example'.intern
 
-[sym, zombie, to_sym, latinoware].each { |s| puts "#{s}(#{s.class})" }
+[sym, zombie, to_sym, example].each { |s| puts "#{s}(#{s.class})" }
 
